@@ -12,7 +12,7 @@ color:white;
 margin:0;
 padding:20px;
 box-sizing:border-box;
-text-align:center:
+text-align:center;
 }
 #p2{
 background-color:##8c8c8c;
@@ -20,7 +20,7 @@ color:white;
 margin:0;
 padding:20px;
 box-sizing:border-box;
-text-align:center:
+text-align:center;
 }
 #p3{
 background-color:##8c8c8c;
@@ -28,5 +28,5 @@ color:white;
 margin:0;
 padding:20px;
 box-sizing:border-box;
-text-align:center:
+text-align:center;
 }
